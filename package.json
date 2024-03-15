@@ -1,7 +1,7 @@
 {
   "name": "iziswap-sdk-js",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "An nodejs sdk of iziswap",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Halimao/iziswap-sdk-js.git"
   },
-  "author": "",
+  "author": "Halimao",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Halimao/iziswap-sdk-js/issues"
