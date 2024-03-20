@@ -1,6 +1,6 @@
 {
   "name": "iziswap-sdk-js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An nodejs sdk of iziswap",
   "main": "index.js",
   "scripts": {
